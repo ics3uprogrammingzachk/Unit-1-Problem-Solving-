@@ -21,5 +21,23 @@ namespace SchoolMascotZachK
         {
 
         }
+
+        private void mniMotherTeresa_Click(object sender, EventArgs e)
+        {
+            lblSchoolMascot.Text = "Saints";
+            lblSchoolName.Text = "Mother Teresa";
+        }
+
+        private void mniImmaculata_Click_1(object sender, EventArgs e)
+        {
+            lblSchoolMascot.Text = "Saints";
+            lblSchoolName.Text = "Immaculata";
+        }
+
+        private void mniStMark_Click(object sender, EventArgs e)
+        {
+            lblSchoolMascot.Text = "Saints";
+            lblSchoolName.Text = "St. Mark's";
+        }
     }
 }

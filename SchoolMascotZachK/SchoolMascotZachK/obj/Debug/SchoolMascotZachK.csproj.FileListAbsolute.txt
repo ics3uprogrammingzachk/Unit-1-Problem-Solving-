@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Unit 1 (Problem Solving)\SchoolMascotZachK\SchoolMascotZachK\bin\Debug\SchoolMascotZachK.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Unit 1 (Problem Solving)\SchoolMascotZachK\SchoolMascotZachK\bin\Debug\SchoolMascotZachK.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Unit 1 (Problem Solving)\SchoolMascotZachK\SchoolMascotZachK\bin\Debug\SchoolMascotZachK.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Unit 1 (Problem Solving)\SchoolMascotZachK\SchoolMascotZachK\obj\Debug\SchoolMascotZachK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Unit 1 (Problem Solving)\SchoolMascotZachK\SchoolMascotZachK\obj\Debug\SchoolMascotZachK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Unit 1 (Problem Solving)\SchoolMascotZachK\SchoolMascotZachK\obj\Debug\SchoolMascotZachK.frmSchoolMascot.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Unit 1 (Problem Solving)\SchoolMascotZachK\SchoolMascotZachK\obj\Debug\SchoolMascotZachK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Unit 1 (Problem Solving)\SchoolMascotZachK\SchoolMascotZachK\obj\Debug\SchoolMascotZachK.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Unit 1 (Problem Solving)\SchoolMascotZachK\SchoolMascotZachK\obj\Debug\SchoolMascotZachK.pdb

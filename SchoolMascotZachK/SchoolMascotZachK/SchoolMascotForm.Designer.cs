@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             this.grbSchool = new System.Windows.Forms.GroupBox();
-            this.lblSchoolName = new System.Windows.Forms.Label();
             this.lblSchoolMascot = new System.Windows.Forms.Label();
+            this.lblSchoolName = new System.Windows.Forms.Label();
             this.mnuSchools = new System.Windows.Forms.MenuStrip();
             this.mniSchool = new System.Windows.Forms.ToolStripMenuItem();
             this.mniMotherTeresa = new System.Windows.Forms.ToolStripMenuItem();
@@ -50,6 +50,15 @@
             this.grbSchool.TabIndex = 0;
             this.grbSchool.TabStop = false;
             // 
+            // lblSchoolMascot
+            // 
+            this.lblSchoolMascot.AutoSize = true;
+            this.lblSchoolMascot.Location = new System.Drawing.Point(37, 68);
+            this.lblSchoolMascot.Name = "lblSchoolMascot";
+            this.lblSchoolMascot.Size = new System.Drawing.Size(42, 13);
+            this.lblSchoolMascot.TabIndex = 1;
+            this.lblSchoolMascot.Text = "Mascot";
+            // 
             // lblSchoolName
             // 
             this.lblSchoolName.AutoSize = true;
@@ -57,16 +66,7 @@
             this.lblSchoolName.Name = "lblSchoolName";
             this.lblSchoolName.Size = new System.Drawing.Size(35, 13);
             this.lblSchoolName.TabIndex = 0;
-            this.lblSchoolName.Text = "label1";
-            // 
-            // lblSchoolMascot
-            // 
-            this.lblSchoolMascot.AutoSize = true;
-            this.lblSchoolMascot.Location = new System.Drawing.Point(37, 68);
-            this.lblSchoolMascot.Name = "lblSchoolMascot";
-            this.lblSchoolMascot.Size = new System.Drawing.Size(35, 13);
-            this.lblSchoolMascot.TabIndex = 1;
-            this.lblSchoolMascot.Text = "label1";
+            this.lblSchoolName.Text = "Name";
             // 
             // mnuSchools
             // 
@@ -91,21 +91,21 @@
             // mniMotherTeresa
             // 
             this.mniMotherTeresa.Name = "mniMotherTeresa";
-            this.mniMotherTeresa.Size = new System.Drawing.Size(152, 22);
+            this.mniMotherTeresa.Size = new System.Drawing.Size(149, 22);
             this.mniMotherTeresa.Text = "Mother Teresa";
             this.mniMotherTeresa.Click += new System.EventHandler(this.mniMotherTeresa_Click);
             // 
             // mniImmaculata
             // 
             this.mniImmaculata.Name = "mniImmaculata";
-            this.mniImmaculata.Size = new System.Drawing.Size(152, 22);
+            this.mniImmaculata.Size = new System.Drawing.Size(149, 22);
             this.mniImmaculata.Text = "Immaculata";
             this.mniImmaculata.Click += new System.EventHandler(this.mniImmaculata_Click_1);
             // 
             // mniStMark
             // 
             this.mniStMark.Name = "mniStMark";
-            this.mniStMark.Size = new System.Drawing.Size(152, 22);
+            this.mniStMark.Size = new System.Drawing.Size(149, 22);
             this.mniStMark.Text = "St. Mark\'s";
             this.mniStMark.Click += new System.EventHandler(this.mniStMark_Click);
             // 

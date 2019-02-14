@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Created by: Zachary Kranabetter
+ * Created on: Febuary 14th 2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #8 - School Mascot
+ * This a program that displays a menu strip with menu items corresponding to different schools. When I click on each menu item, the school label and mascot changes accordingly. 
+*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -16,15 +24,16 @@ namespace SchoolMascotZachK
         {
             InitializeComponent();
         }
-
+        
         private void SchoolMascotForm_Load(object sender, EventArgs e)
         {
 
         }
 
+        // Change the name and mascot to the school
         private void mniMotherTeresa_Click(object sender, EventArgs e)
         {
-            lblSchoolMascot.Text = "Saints";
+            lblSchoolMascot.Text = "Spartans";
             lblSchoolName.Text = "Mother Teresa";
         }
 
@@ -36,7 +45,7 @@ namespace SchoolMascotZachK
 
         private void mniStMark_Click(object sender, EventArgs e)
         {
-            lblSchoolMascot.Text = "Saints";
+            lblSchoolMascot.Text = "Warriors";
             lblSchoolName.Text = "St. Mark's";
         }
     }

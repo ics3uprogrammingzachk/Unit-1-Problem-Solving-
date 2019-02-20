@@ -16,5 +16,12 @@ namespace ChangingAreaPerZach
         {
             InitializeComponent();
         }
+
+        private void txtLegthInput_TextChanged(object sender, EventArgs e)
+        {
+            double Legth = Convert.ToDouble(txtLegthInput);
+            
+            //double lblPermeter
+        }
     }
 }

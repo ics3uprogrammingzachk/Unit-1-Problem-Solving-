@@ -78,6 +78,7 @@
             this.txtLegthInput.Name = "txtLegthInput";
             this.txtLegthInput.Size = new System.Drawing.Size(100, 20);
             this.txtLegthInput.TabIndex = 4;
+            this.txtLegthInput.TextChanged += new System.EventHandler(this.txtLegthInput_TextChanged);
             // 
             // txtWidthInput
             // 
